@@ -55,16 +55,16 @@ The Presentation deliverable can take many formats including:
 If choosing the "live" option, the instructor may record the presentation. If you do not wish your voice or likeness to be included in the recording, please let the instructor know and we can make arrangements _not_ to record the presentation or have another team member read the text of your contribution.
 
 ```
-LINK PRESENTATION MATERIALS HERE
+Materials within presentation folder. i.e. google slides, video..
 ```
 
 * Replace the template text in the code block above with the link to the appropriate material
 
 This presentation must meet the following criteria:
 
-- [ ] Be between 15 - 20 minutes
-- [ ] Present an overview which lists all module projects and one-sentence summary of issue addressed
-- [ ] Sections for each module which present:
+- [x] Be between 15 - 20 minutes
+- [x] Present an overview which lists all module projects and one-sentence summary of issue addressed
+- [x] Sections for each module which present:
   * Team members by role(s)
   * An overview of the application to which your team contributed
     * If contributing to only one application this semester, only one application overview is required
@@ -73,8 +73,8 @@ This presentation must meet the following criteria:
   * Three main challenges the module presented
   * Role-by-role summaries which describe how your work in that role contributed to "highlights" or addressed challenges
   * The main successes and improvements from the module and how your group either continued those successes or implemented improvements
-- [ ] An overall review of the group's work on the module and a discussion of its relative success
-- [ ] A member-by-member summary of lessons learned, take-aways, personal achievements, and skills gained or that a team member has become aware that they're suited to
+- [x] An overall review of the group's work on the module and a discussion of its relative success
+- [x] A member-by-member summary of lessons learned, take-aways, personal achievements, and skills gained or that a team member has become aware that they're suited to
 
 * If creating a slide deck or other presentation format, include a PDF or video file in the `presentation` directory, and
 
